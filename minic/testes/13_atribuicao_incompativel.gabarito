@@ -1,0 +1,4 @@
+Erro semântico (linha 4): atribuição incompatível: bool recebe int
+Erro semântico (linha 5): atribuição incompatível: int recebe float
+Erro semântico (linha 6): atribuição incompatível: int recebe bool
+Análise semântica concluída: 3 erros; programa rejeitado.

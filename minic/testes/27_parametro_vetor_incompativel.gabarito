@@ -1,0 +1,3 @@
+Erro semântico (linha 8): argumento 1 da função 'soma': esperado int[], encontrado float[]
+Erro semântico (linha 8): argumento 1 da função 'soma': esperado int[], encontrado int
+Análise semântica concluída: 2 erros; programa rejeitado.

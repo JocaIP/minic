@@ -1,0 +1,3 @@
+Erro semântico (linha 1): função 'principal' não deve ter parâmetros
+Erro semântico (linha 1): função 'principal' deve retornar int
+Análise semântica concluída: 2 erros; programa rejeitado.

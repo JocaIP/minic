@@ -1,0 +1,5 @@
+Erro semântico (linha 5): operador '&&' requer operandos bool, mas recebeu int e bool
+Erro semântico (linha 6): operador '!' requer operando bool, mas recebeu int
+Erro semântico (linha 7): operador '==' não pode comparar int com bool
+Erro semântico (linha 8): operador '<' requer operandos numéricos, mas recebeu bool e bool
+Análise semântica concluída: 4 erros; programa rejeitado.

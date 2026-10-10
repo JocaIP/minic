@@ -1,0 +1,8 @@
+Erro semântico (linha 1): função 'f' pode terminar sem retornar valor
+Erro semântico (linha 6): 'x' já declarado neste escopo
+Erro semântico (linha 8): atribuição incompatível: bool recebe int
+Erro semântico (linha 9): variável 'y' não declarada
+Erro semântico (linha 10): função 'f' espera 1 argumento(s), mas recebeu 2
+Erro semântico (linha 11): condição do 'if' deve ser bool, mas é int
+Erro semântico (linha 12): função 'g' não declarada
+Análise semântica concluída: 7 erros; programa rejeitado.

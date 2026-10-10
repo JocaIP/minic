@@ -1,0 +1,4 @@
+Erro semântico (linha 5): índice de vetor deve ser int, mas é float
+Erro semântico (linha 6): índice de vetor deve ser int, mas é bool
+Erro semântico (linha 7): indexação de valor que não é vetor (tipo int)
+Análise semântica concluída: 3 erros; programa rejeitado.

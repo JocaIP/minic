@@ -1,0 +1,3 @@
+Erro semântico (linha 2): função void 'escreve' não pode retornar valor
+Erro semântico (linha 9): expressão do tipo void não pode ser usada como valor
+Análise semântica concluída: 2 erros; programa rejeitado.

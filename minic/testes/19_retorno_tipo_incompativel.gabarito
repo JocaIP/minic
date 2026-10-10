@@ -1,0 +1,3 @@
+Erro semântico (linha 2): retorno de tipo float incompatível com o tipo int da função 'a'
+Erro semântico (linha 5): retorno de tipo int incompatível com o tipo bool da função 'b'
+Análise semântica concluída: 2 erros; programa rejeitado.

@@ -1,0 +1,5 @@
+Erro semântico (linha 6): função 'soma' espera 2 argumento(s), mas recebeu 1
+Erro semântico (linha 7): função 'soma' espera 2 argumento(s), mas recebeu 3
+Erro semântico (linha 8): argumento 2 da função 'soma': esperado int, encontrado float
+Erro semântico (linha 9): argumento 1 da função 'soma': esperado int, encontrado bool
+Análise semântica concluída: 4 erros; programa rejeitado.

@@ -1,0 +1,3 @@
+Erro semântico (linha 4): condição do 'if' deve ser bool, mas é int
+Erro semântico (linha 5): condição do 'while' deve ser bool, mas é int
+Análise semântica concluída: 2 erros; programa rejeitado.
